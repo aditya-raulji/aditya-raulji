@@ -16,6 +16,7 @@
 - 💡 Love combining **code + motion + design** for visually compelling experiences
 - 🎨 Specialized in **Figma design to code**, **React**, and animation frameworks
 - 👨‍💻 Portfolio: [aditya-portfolio](https://aditya-portfolio-cjo4.onrender.com/)
+- 👨‍💻 Resume: [aditya-Resume](https://drive.google.com/drive/folders/1i-vS8fM_nWDVsMwnibLNndH-79VNw4Iu)
 - 🎯 Aspiring **Creative Technologist** bridging storytelling and front-end engineering
 
 ---

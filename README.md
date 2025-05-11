@@ -1,8 +1,11 @@
+hi i am a created my github profile .md file but bahot logo ka ui aur css sem hai meri tarah so tum muje kuch unique do 
+
+
 <h1 align="center">Hi there 👋, I'm Aditya Raulji</h1>
 <h3 align="center">Creative Developer | BTech CSE | Passionate about Web Development, UI/UX, and Animation</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
+  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-e498-61f8-8aa6-60792f3d9af3/raw?se=2025-05-11T06%3A54%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-11T02%3A51%3A14Z&ske=2025-05-12T02%3A51%3A14Z&sks=b&skv=2024-08-04&sig=k1c7LwCgNswA6/KN3kvBy0EnWMvqBkDO3XOKqzqxs3s%3D" alt="coding" width="400"/>
 </p>
 
 ---
@@ -49,6 +52,13 @@
 - 🌍 **ReuseHub** – Sustainability-focused site with live data viz and interactive maps
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya-raulji&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raulji&layout=compact&theme=tokyonight" />
+</p>
 
 
 

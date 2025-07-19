@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 First-year **BTech CSE student**
+- 🎓  BTech CSE Student | Passionate about Web Development, UI/UX, and Emerging Technologies
 - 🔭 Currently building **interactive websites with full animations**
 - 💡 Love combining **code + motion + design** for visually compelling experiences
 - 🎨 Specialized in **Figma design to code**, **React**, and animation frameworks

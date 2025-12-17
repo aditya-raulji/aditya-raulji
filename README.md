@@ -100,18 +100,9 @@ const aditya = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya-raulji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raulji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-</div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-raulji&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
 
 <div align="center">
 
@@ -119,11 +110,7 @@ const aditya = {
 
 </div>
 
-<div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aditya-raulji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
-</div>
 
 ---
 
@@ -264,15 +251,6 @@ Check out my GitHub profile for more exciting projects and contributions to open
 </tr>
 </table>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/aditya-raulji/aditya-raulji/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -386,13 +364,6 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://github.com/aditya-raulji/aditya-raulji/blob/main/github-metrics.svg)
-
-</div>
 
 ---
 
@@ -406,9 +377,6 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aditya-raulji/aditya-raulji/main/images/bottom_header.svg" width="100%"/>
 
 ### 🎯 Thanks for visiting my profile!
 

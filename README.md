@@ -24,9 +24,9 @@
 
 ## 🎯 About Me
 
-<div align="center">
+<div align="left">
 
-```javascript
+```js
 const aditya = {
   education: "BTech Computer Science & Engineering",
   role: "Aspiring Software Engineer",
@@ -38,7 +38,7 @@ const aditya = {
   resume: "https://drive.google.com/drive/folders/1i-vS8fM_nWDVsMwnibLNndH-79VNw4Iu",
   achievements: ["YOLO", "Pull Shark x2", "Quickdraw"]
 };
-```
+````
 
 </div>
 
@@ -59,7 +59,7 @@ const aditya = {
 
 ### 💻 Languages & Frameworks
 
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -75,7 +75,7 @@ const aditya = {
 
 ### 🎨 Design & Animation Tools
 
-<div align="center">
+<div align="left">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -85,7 +85,7 @@ const aditya = {
 
 ### 🛠️ Development Tools & Platforms
 
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -256,7 +256,7 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ## 🎓 Skills Breakdown
 
-<div align="center">
+<div align="left">
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react)
@@ -283,7 +283,7 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ## 📚 Currently Learning
 
-<div align="center">
+<div align="left">
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -296,7 +296,7 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="left">
 
 ![YOLO](https://img.shields.io/badge/YOLO-Achievement-FFD700?style=for-the-badge)
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-x2-FF6B6B?style=for-the-badge)
@@ -308,7 +308,7 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 ## 💼 Experience & Contributions
 
-<div align="center">
+<div align="left">
 
 ### 🎓 Student Developer & Open Source Contributor
 
@@ -382,7 +382,7 @@ Check out my GitHub profile for more exciting projects and contributions to open
 
 **⭐ Star this repo if you like it!**
 
-![Visitor Count](https://profile-counter.glitch.me/aditya-raulji/count.svg)
+
 
 ---
 
